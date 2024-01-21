@@ -5,12 +5,12 @@ This project was conducted by Adam Cersosimo, Jibin Solomon, Owen Hovey, and Dan
 Roles:
 
   • Adam Cersosimo: Project Team Leader 
+
+  • Daniel Cersosimo: Lead Data Scientist
   
   • Jibin Solomon: EDA Specialist
   
-  • Owen Hovey: Data Preprocessing Specialist
-  
-  • Daniel Cersosimo: Lead Data Scientist 
+  • Owen Hovey: Data Preprocessing Specialist 
 
 In my role as Lead Data Scientist, I spearheaded the following processes:
 
