@@ -1,6 +1,6 @@
 # London Temperature Forecasting
 
-This project was conducted by Adam Cersosimo, Jibin Solomon, Owen Hovey, and Daniel Cersosimo
+This project was conducted by Adam Cersosimo, Daniel Cersosimo, Jibin Solomon, and Owen Hovey
 
 Roles:
 
